@@ -12,3 +12,10 @@ img {
     width: 100px;
     height: auto;
 }
+
+a {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    margin: 5px;
+  }

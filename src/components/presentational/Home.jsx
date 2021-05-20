@@ -1,13 +1,11 @@
 import React from 'react';
 
-function Home(props) {
+function Home() {
     return (
         <div>
-            Welcome to Harry Potter!
+            <h1>Welcome to Harry Potter!</h1>
         </div>
     )
 }
 
-
 export default Home;
-
